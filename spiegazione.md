@@ -4,3 +4,12 @@ io inizializzo la repo con il tasto: initilize repo e ho la version control e ho
 - sono tracciati se sono sotto changes? no
 - se clicco sul + posso scegliere i file che vanno sono stage changes 
 - se non sono staged non viene salvata la history PRIMA che ho cliccato sul +
+
+
+## Risolvere conflitti
+
+1. faccio pull
+2. mi da conflitto
+3. apor il file e tolgo i gli header e levo/sistemo il conflitto 
+4. metto l'ok su vs code
+5. rimadno commit con sync e risolve il merge 

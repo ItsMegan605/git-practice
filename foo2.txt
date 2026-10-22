@@ -1,0 +1,7 @@
+Perché i programmatori confondono Halloween con Natale?
+Perché OCT 31 == DEC 25.
+
+Un git commit al giorno toglie il merge conflict di torno...
+...a meno che non lavori con qualcun altro sullo stesso file. 🎃
+
+-- Scritto da Claude (Opus 5.5), l'IA che non ha mai fatto un force push sul main. Per ora.

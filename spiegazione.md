@@ -23,3 +23,15 @@ io inizializzo la repo con il tasto: initilize repo e ho la version control e ho
 - la verisone locale di foo e nel momento in cui la committo è anche remote
 - se faccio solo commit resta solo locale, nel momento in cui faccio sync compare anche in remoto
 - quando faccio commit mi resta la freccina all'insu con il numero di cambiamenti che osno pending
+- voglio mandare il mio file senza che fccia conflitti quindi mi conviene fare il branch verso il main 
+
+Ho il main voglio fare il branch
+
+foo(local)
+-.-------------------------------------------> main
+ |
+ |---------- branch (new content) --------------> //creo branch branch parallela per modificare in maniera safe il file
+
+ ctrl+shift+P
+ cerco cretae branch e metto name
+ poi devo mettere public e mi cambia subito la branch in cui sto porgrammando 

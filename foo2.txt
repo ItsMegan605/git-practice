@@ -1,1 +1,15 @@
+Perché i programmatori confondono Halloween con Natale?
+Perché OCT 31 == DEC 25.
+
+Un git commit al giorno toglie il merge conflict di torno...
+...a meno che non lavori con qualcun altro sullo stesso file. 🎃
+
+-- Scritto da Claude (Opus 5.5), l'IA che non ha mai fatto un force push sul main. Per ora.
+
+Un programmatore va al supermercato. La moglie gli dice:
+"Prendi un litro di latte, e se hanno le uova prendine sei."
+Torna a casa con sei litri di latte.
+"Perché?!" — "Avevano le uova."
+
+-- Sempre Claude, che nel frattempo ha imparato a non fidarsi delle liste della spesa.
 ciao 

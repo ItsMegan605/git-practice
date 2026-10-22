@@ -20,4 +20,6 @@ io inizializzo la repo con il tasto: initilize repo e ho la version control e ho
 - 
 
 ## Abbiamo fatto foo
-- la verisone locale di foo e nel momento in cui la committo è anche remota
+- la verisone locale di foo e nel momento in cui la committo è anche remote
+- se faccio solo commit resta solo locale, nel momento in cui faccio sync compare anche in remoto
+- quando faccio commit mi resta la freccina all'insu con il numero di cambiamenti che osno pending

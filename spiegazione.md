@@ -13,3 +13,11 @@ io inizializzo la repo con il tasto: initilize repo e ho la version control e ho
 3. apor il file e tolgo i gli header e levo/sistemo il conflitto 
 4. metto l'ok su vs code
 5. rimadno commit con sync e risolve il merge 
+
+
+## simbologia
+- in basso a sinistra il simbolo con le freccine è SYNCHED
+- 
+
+## Abbiamo fatto foo
+- la verisone locale di foo e nel momento in cui la committo è anche remota
